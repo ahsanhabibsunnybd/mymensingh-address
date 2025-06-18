@@ -22,12 +22,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourorg/mymensingh-address-plugin.git"
+    "url": "https://github.com/ahsanhabibsunnybd/mymensingh-address"
   },
   "bugs": {
-    "url": "https://github.com/yourorg/mymensingh-address-plugin/issues"
+    "url": "https://github.com/ahsanhabibsunnybd/mymensingh-address/issues"
   },
-  "homepage": "https://github.com/yourorg/mymensingh-address-plugin#readme",
+  "homepage": "https://github.com/ahsanhabibsunnybd/mymensingh-address#readme",
   "scripts": {
     "build": "tsc",
     "test": "echo \"No tests specified\" && exit 0"
